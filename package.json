@@ -1,0 +1,11 @@
+{
+  "name": "pi-rollback",
+  "version": "0.3.0",
+  "type": "module",
+  "description": "Pi extension — roll back conversation and file state simultaneously using filesystem snapshots",
+  "keywords": ["pi-package", "pi-extension"],
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
